@@ -7,4 +7,3 @@ individually that the unique identifier/node hadn't been received before <br>
 With this, we can also make sure that the message can only be passed <br>
 once at a time. This way, the cards won't be received in the incorrect order <br>
 is less likely to get mixed up with other cards.
-- How can we ensure that each card is received once and only once?
